@@ -1,4 +1,4 @@
-## Hallo ich bin Noak 👋
+## Hallo ich bin Noak 
 
 Student **Medical Engeneering and Data Science** an der TH Aschaffenburg (3. Semester).
 Mich interessiert, wie man **Mashine-Learning-Modelle** baut und in echte Anwendungen einbringt.
